@@ -1,5 +1,5 @@
-# Manning_liveProjrct
-Discovering Disease Outbreaks from News Headlines
+# Manning_liveProject
+## Discovering Disease Outbreaks from News Headlines
 
 
 Identifying and mapping epidemics is crucial to prevent or respond to deadly disease outbreaks. Your first assignment for the WHO is as follows:
